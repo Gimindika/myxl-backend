@@ -4,7 +4,7 @@
 
 MyXL Backend is a rest api application for cloning MyXL application using react-native and admin site using reactJS. Built with NodeJs using the ExpressJs Framework and NoSQL mongo Database.
 Express.js is a web application framework for Node.js. [More about Express](https://en.wikipedia.org/wiki/Express.js)
-<p>MyXL Frontend : https://github.com/fastaman993/UklamApps/  </p>
+<p>MyXL Frontend : https://github.com/firmansyahfachmi/MyXL-Clone-Frontend-Mobile  </p>
 
 ## Built With
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
